@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Juan Pablo's homepage
 description: This is the main portal for my personal Github Pages website.
+
+
+plugins:
+  - jekyll-pdf-embed
