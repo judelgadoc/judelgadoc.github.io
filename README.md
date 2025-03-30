@@ -6,15 +6,19 @@ For the final project of my undergraduate's I wrote a research paper, it needs p
 
 [pdf](_pdfs/tlon.pdf)
 
-{% pdf "_pdfs/tlon.pdf" %}
+
+
+<object data="_pdfs/tlon.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 ## Comparison of education systems (2023)
 
 One time I wanted to win a discussion with a very stubborn friend, I tried to write a small report to support my arguments, this document is the result. It's not very formal, but I wanted to have a discussion in a scientific way. 
 
+
 [pdf](_pdfs/sistemas_educativos.pdf)
 
- {% pdf "_pdfs/sistemas_educativos.pdf" %}
+
 
 # Projects
 
