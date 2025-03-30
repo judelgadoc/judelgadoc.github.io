@@ -2,7 +2,7 @@
 
 ## Use of Design Research Methodology (DRM) for designing an electoral system applied to the TLÖN project (2025)
 
-For the final project of my major I wrote a research paper, it needs polishing.
+For the final project of my undergraduate's I wrote a research paper, it needs polishing.
 
 [pdf](_pdfs/tlon.pdf)
 
