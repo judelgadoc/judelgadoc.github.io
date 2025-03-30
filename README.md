@@ -1,6 +1,6 @@
 # Research
 
-According to Booth [1], doing research is when we try to gather information to answer a question, basically to answer and remember something (that's why it's also important to write it up in the form of a paper) I find this very interesting, I've tried to do it in the past for personal discussions. As a result I haven't polished the quality of these works, nonetheless I believe they're a good start.
+According to Booth [1], doing research is when we try to gather information to answer a question, basically to answer and remember something, that's why it's also important to write it up in the form of a paper. I find this very interesting, I've tried to do it in the past for personal discussions. As a result I haven't polished the quality of these works, nonetheless I believe they're a good start.
 
 ## Use of Design Research Methodology (DRM) for designing an electoral system applied to the TLÖN project (2025)
 
@@ -10,7 +10,7 @@ For the final project of my undergraduate's I wrote a research paper, it needs p
 
 
 <a href="https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/tlon.pdf">
-    <img src="tlon.jpg" alt="Click the image to see the PDF">
+    <img src="tlon.png" alt="Click the image to see the PDF">
 </a>
 
 ## Comparison of education systems (2023)
@@ -20,7 +20,7 @@ One time I wanted to win a discussion with a very stubborn friend, I tried to wr
 (Click the image to see the PDF)
 
 <a href="https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/sistemas_educativos.pdf">
-    <img src="sistemas_educativos.jpg" alt="Click the image to see the PDF">
+    <img src="sistemas_educativos.png" alt="Click the image to see the PDF">
 </a>
 
 
