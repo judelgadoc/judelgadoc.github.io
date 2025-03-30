@@ -6,23 +6,22 @@ According to Booth [1], doing research is when we try to gather information to a
 
 For the final project of my undergraduate's I wrote a research paper, it needs polishing.
 
-[pdf](https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/tlon.pdf?raw=true)
+(Click the image to see the PDF)
 
 
-<object data="https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/tlon.pdf?raw=true" width="1000" height="1000" type="application/pdf"></object>
-
-
+<a href="https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/tlon.pdf">
+    <img src="tlon.jpg" alt="Click the image to see the PDF">
+</a>
 
 ## Comparison of education systems (2023)
 
 One time I wanted to win a discussion with a very stubborn friend, I tried to write a small report to support my arguments, this document is the result. It's not very formal, but I wanted to have a discussion in a scientific way. 
 
+(Click the image to see the PDF)
 
-[pdf](https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/sistemas_educativos.pdf?raw=true)
-
-
-<object data="https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/sistemas_educativos.pdf?raw=true" width="1000" height="1000" type="application/pdf"></object>
-
+<a href="https://github.com/judelgadoc/judelgadoc.github.io/blob/main/_pdfs/sistemas_educativos.pdf">
+    <img src="sistemas_educativos.jpg" alt="Click the image to see the PDF">
+</a>
 
 
 
