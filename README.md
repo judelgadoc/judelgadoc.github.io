@@ -1,4 +1,20 @@
-# ErrorGerm
+# Research notes
+
+## Use of Design Research Methodology (DRM) for designing an electoral system applied to the TLÖN project (2025)
+
+For the final project of my major I wrote a research paper, it needs polishing.
+
+
+
+## Comparison of education systems (2023)
+
+When I wanted to win a discussion with a very stubborn friend, I tried to write a small report to support my arguments, this document is the result
+
+<object data="_pdfs/sistemas_educativos.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+# Projects
+
+## ErrorGerm
 
 I loved doing [this](/errorgerm)
 
