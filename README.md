@@ -1,4 +1,4 @@
-# Research notes
+# Research
 
 ## Use of Design Research Methodology (DRM) for designing an electoral system applied to the TLÖN project (2025)
 
@@ -7,8 +7,8 @@ For the final project of my undergraduate's I wrote a research paper, it needs p
 [pdf](_pdfs/tlon.pdf)
 
 
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/tlon.pdf" width="1000" height="1000" type="application/pdf"></object>
 
-<object data="_pdfs/tlon.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 ## Comparison of education systems (2023)
