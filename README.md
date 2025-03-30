@@ -4,13 +4,13 @@
 
 For the final project of my major I wrote a research paper, it needs polishing.
 
-
+<iframe src="https://drive.google.com/file/d/1at2ksgNge2iQkDyR-j1473DShR04O_SS/view?usp=sharing" width="640" height="480"></iframe>
 
 ## Comparison of education systems (2023)
 
-When I wanted to win a discussion with a very stubborn friend, I tried to write a small report to support my arguments, this document is the result
+One time I wanted to win a discussion with a very stubborn friend, I tried to write a small report to support my arguments, this document is the result. It's not very formal, but I wanted to have a discussion in a scientific way. 
 
-<object data="_pdfs/sistemas_educativos.pdf" width="1000" height="1000" type='application/pdf'></object>
+<iframe src="https://drive.google.com/file/d/1p6-Btac_DXxu7CQ6LduFcQ1AWHNDqcBU/view?usp=sharing" width="640" height="480"></iframe>
 
 # Projects
 
