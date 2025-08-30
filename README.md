@@ -38,10 +38,18 @@ I loved doing [this](/errorgerm) website
 
 我努力学习，结果我喜爱实验室上课。格外喜欢Error propagation。那时间我使用Python为了算Error propagation。学期结束了想要编程一种更详细程序。这个小网站是那个结果。
 
+## Global and National Population Centers (2015–2030)
+
+[Interactive map](/mean-central-tz) for the Global and National Population Centers (2015–2030) based on WorldPop beta data [2]
+
 # References
 
 <div class="csl-bib-body" style="line-height: 1.35; ">
   <div class="csl-entry" style="clear: left; ">
     <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">Wayne C. Booth. 2016. <i>The Craft of Research</i> (4th ed ed.). University of Chicago Press, Chicago.</div>
   </div>
+  <div class="csl-entry" style="clear: left; ">
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 1em;">[1]</div><div class="csl-right-inline" style="margin: 0 .4em 0 1.5em;">T. O’Riordan, “Beta Test Our New Global Population Data - 2015 to 2030,” <i>WorldPop</i>, May 01, 2025. Available: https://www.worldpop.org/blog/beta-test-our-new-global-population-data-2015-to-2030/. [Accessed: Aug. 31, 2025]</div>
+  </div>
 </div>
+
